@@ -8,4 +8,4 @@ There are several steps:
 4. Create a function that asks input from user the option strike and expiry date, generate the mid, bid, ask quotes in BTC, option's Delta in BTC, and option's Vega and Theta in USD. 
 Note that the mid price comes from the surface interpolation. Bid and ask prices can be BS price with a volatility +- a volatility spread say 0.5%
 
-# Suppose we are on March 7
+### Suppose we are on March 7
